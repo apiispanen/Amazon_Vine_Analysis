@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 An exploration in big data for Amazon, using PySpark, PgAdmin and Google Colab. 
 
 ## Overview
